@@ -1,3 +1,6 @@
+# Author: Fabricio M. Pérez-Toledo
+# Year: 2024-10
+#
 # This file is part of Public_Astronomy.
 #
 # Public_Astronomy is free software: you can redistribute it and/or modify
