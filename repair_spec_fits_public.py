@@ -13,6 +13,9 @@
 # You should have received a copy of the GNU General Public License
 # along with Public_Astronomy. If not, see <https://www.gnu.org/licenses/>.
 
+# DESCRIPTION
+# This script is used to solve the issue of 'sawtooth patterns' that occasionally arise 
+# during reductions performed with Pypeit for OSIRIS+.
 
 import glob, sys
 
